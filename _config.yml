@@ -11,13 +11,13 @@ title: "Tim Toavs - Data Scientist"
 title_separator: "-"
 name: &name "Tim Toavs"
 description: &description "personal description"
-url: https://ttoavs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "ttoavs.github.io"
+repository: ""
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
-future: true
+future: false
 read_more: "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link: false #change to true to add link to talkmap on talks page
 comments:
@@ -74,9 +74,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Tim"
+  name: "Tim Toavs"
   avatar: "HeadShot.jpg"
-  bio: "Still working on this"
+  bio:
   location: "Baton Rouge"
   employer: "Louisiana State University"
   pubmed:
@@ -165,16 +165,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  portfolio-projects:
     output: true
     permalink: /:collection/:path/
 
@@ -186,9 +180,9 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -197,42 +191,25 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
   # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: portfolio projects
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+      comment: false
 
 # Sass/SCSS
 sass:
