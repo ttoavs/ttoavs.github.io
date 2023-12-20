@@ -44,7 +44,7 @@ The six numeric features were: Customer_care_calls, Customer_ratings, Cost_of_Pr
 
 Before jumping into the multivariate analysis, I think we should look at the numeric features in a bit more detail. Below I have created a pairwise matrix panel plot which showcases the relationships within and between the numeric variables.
 
-![Alt Text](/images/Multivariate_portfolio/Panel_plot.png)
+![alt text](/images/Multivariate_portfolio/Panel_plot.png)
 
 Some things that I think are important to note are that no two variables are highly correlated. Also, we have some interesting distributions within the features. Not all of them are normally distributed as none of the values can be negative and some features can only be integers. Finally, I want to note the bimodal pattern in the shipment weight feature where there seems to be a concentration of both smaller and larger shipments.
 
