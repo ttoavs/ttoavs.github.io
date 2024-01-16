@@ -8,7 +8,7 @@ layout: "single"
 
 # Introduction
 
-In a previous project I demonstrated my ability to design and implement a relational database (DB). However, I want to create a project where I focus solely on my ability to write efficient and effective SQL queries from a relational database. The Db I will be using is one that encompasses all the data that I accumulated for my Ph.D. dissertation research. The creation and details behind the DB can be found following this [link](). The details around the data are not that important my goal here is to showcase my SQL technical abilities through data queries.
+In a previous project I demonstrated my ability to design and implement a relational database (DB). However, I want to create a project where I focus solely on my ability to write efficient and effective SQL queries from a relational database. The Db I will be using is one that encompasses all the data that I accumulated for my Ph.D. dissertation research. The creation and details behind the DB can be found following this [link](https://ttoavs.github.io/portfolio-projects/portfolio-postgres/). The details around the data are not that important my goal here is to showcase my SQL technical abilities through data queries.
 
 The relational DB is housed in a [PostgreSQL](https://www.postgresql.org) data base and I am interfacing with it on a local server using the program [DBeaver](https://dbeaver.io). Within this project I am going to go through 20 different prompts that I must accomplish by writing SQL code. The relative difficulty of the queries will increase throughout the document.
 
