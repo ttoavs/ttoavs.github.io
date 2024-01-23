@@ -1,7 +1,7 @@
 ---
 title: "SQL Data Queries"
 date: 2024-01-16
-excerpt: "Project walking through the use of SQL to query a relational database <br/><img src='/images/SQL_Query/postgres-logo.png'>"
+excerpt: "Project walking through the use of SQL to query a relational database. <br/><img src='/images/SQL_Query/postgres-logo.png'>"
 permalink:
 layout: "single"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Multivariate Analysis"
-excerpt: "Showcase of Multivariate techniques on E-commerce shipping data <br/><img src='/images/Multivariate_portfolio/thumbnail.png'>"
+excerpt: "In this project I used various multivariate statistical techniques to explore E-commerce shipping data and ultimately gain insight into improving on-time shipments and customer satisfaction. <br/><img src='/images/Multivariate_portfolio/thumbnail.png'>"
 permalink:
 layout: "single"
 date: 2023-12-20

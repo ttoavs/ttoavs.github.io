@@ -1,6 +1,6 @@
 ---
 title: "Relational Database Design and Implementation"
-excerpt: "Project going through the creation of a Postgres relational database to the deployment of data visualizations using Tableau. <br/><img src='/images/postgres_portfolio/Thumbnail.png'>"
+excerpt: "Project going through the creation of a Postgres relational database and its functionality in deploying to statistical programing languages for analysis and Tableau for data visualization. <br/><img src='/images/postgres_portfolio/Thumbnail.png'>"
 permalink:
 layout: "single"
 date: 2024-1-13
