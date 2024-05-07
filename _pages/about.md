@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My names is Tim and I am a Data Scientist currently finishing up my Ph.D. at Louisiana State University. I have had a unqiue and non-linear jouney to get where I am today. Upon graduation I plan to pursue a Data Science career where I utilize my unique perspectives and techincal skills.
+Hello! My names is Tim and I am a Data Analyst currently finishing up my Ph.D. at Louisiana State University. I have had a unqiue and non-linear jouney to get where I am today. Upon graduation I plan to pursue a career in data where I can utilize my unique perspectives and techincal skills.
 
 ### This webpage is intended to:
 
@@ -25,6 +25,7 @@ Prior to entering the world of natural resources, I was an accounting undergrad 
 During and after undergrad I worked for a watershed district (municipal government organization) where I was first an intern and then a water resource technician. At the watershed district, I spent my time doing all sorts of fieldwork collecting environmental data. It was there that I started to realize what I love doing, which happened when analyzing the data, we spent all year collecting.
 
 From there I got my current position at LSU. At first, I was hired to pursue a Master’s, but I quickly transitioned to a Ph.D. after having some early success. While working on my dissertation research and coursework I fully realized what I love doing, which is working with data. From accounting to biology to ecology the common thread has been data. Specifically, what I can do with data from gathering, to analyzing, then finally telling a story.
+
 Once realizing that data science is the career path for me, I decided to fill the rest of my course load with statistics classes and gain any other technical skills I need for the job.
 
 ### Personal Life
