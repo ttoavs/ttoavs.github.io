@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My names is Tim and I am a Data Analyst currently finishing up my Ph.D. at Louisiana State University. I have had a unqiue and non-linear jouney to get where I am today. Upon graduation I plan to pursue a career in data where I can utilize my unique perspectives and techincal skills.
+Hello! My name is Tim and I am a Data Analyst currently finishing up my Ph.D. at Louisiana State University. I have had a unqiue and non-linear jouney to get where I am today. Upon graduation I plan to pursue a career in data where I can utilize my unique perspectives and techincal skills.
 
 ### This webpage is intended to:
 
