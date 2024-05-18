@@ -1,11 +1,9 @@
 ---
-permalink: /
+permalink: /about/
 title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
 ---
 
 Hello! My name is Tim and I am a Data Analyst currently finishing up my Ph.D. at Louisiana State University. I have had a unqiue and non-linear jouney to get where I am today. Upon graduation I plan to pursue a career in data where I can utilize my unique perspectives and techincal skills.

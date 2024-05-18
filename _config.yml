@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Tim Toavs - Data Scientist"
+title: "Tim Toavs"
 title_separator: "-"
 name: &name "Tim Toavs"
 description: &description "personal description"
