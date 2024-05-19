@@ -12,48 +12,78 @@ redirect_from:
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
+<style>
+    .container-md {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+    }
+
+    .container-md .row {
+        display: contents;
+        /* Allow rows to be styled individually while maintaining the grid layout */
+    }
+
+    .container-md .col {
+        border: 1px solid lightgrey;
+        padding: 10px;
+        text-align: center;
+        text-align: bottom;
+    }
+
+    .feature-title2 {
+        grid-column: span 3;
+        text-align: center;
+        margin: 0;
+        padding: 10px;
+        border: 1px solid rgb(255, 255, 255);
+    }
+</style>
 
 
-<p> 
-    I am a professional with 5 years of experience in data-focused roles and a strong statistical background. Skilled in
-    synthesizing complex datasets for strategic decision-making, I am proficient in data manipulation, visualization, and
-    modeling. Currently, I am transitioning into traditional analytics roles.
-</p>
+<div>
+    <p> I am a professional with 5 years of experience in data-focused roles and a strong statistical background. Skilled in synthesizing complex datasets for strategic decision-making, I am proficient in data manipulation, visualization, and modeling. Currently, I am transitioning into traditional analytics roles. </p>
+    <p>This is my portfolio website. Check out some of my featured projects below!</p>
+</div>
 
-<p>
-    This is my portfolio website. Check out some of my featured projects below!
-</p>
+<hr>
+
 <br><br>
-
-<h3 align="center">  </h3>
-
 
 <header>
     <div class="container-md">
         <div class="row">
-            <h1 class="feature-title2"></h1>
+            <h5 class="feature-title2" align = "center">---Fetured Projects---</h5>
         </div>
         <div class="row">
             <div class="col">
                 <a href=/portfolio-projects/portfolio-postgres> 
-                    <h5 class="feature-title"></h5>
                     <img src="/images/postgres_portfolio/Thumbnail.png" class="img-fluid">
-                    <p>Relational Database Design and Implementation</p>
                 </a>
+                <p>Relational Database Design and Implementation</p>
             </div>
             <div class="col">
                 <a href = /portfolio-projects/portfolio-SQLQuery>
-                    <h5 class="feature-title"></h5>
                     <img src="/images/SQL_Query/postgres-logo.png" class="img-fluid">
-                    <p>SQL Data Queries</p>
-                </a>   
+                </a>
+                <p>SQL Data Queries</p>
             </div>
             <div class="col">
                 <a href= /portfolio-projects/portfolio-Tableau>
-                    <h5 class="feature-title"></h5>
                     <img src="/images/Tableau_Icon.png" class="img-fluid">
-                    <p>Tableau Dashboards</p>
                 </a>
+                <p>Tableau Dashboards</p>
+            </div>
+        </div>
+        <div class="row">
+            <h5 class="feature-title2" align = "center">---Fetured Publications---</h5>
+        </div>
+        <div class="row">
+            <div class="col">
+                <a href=/publication/CDFLOW>
+                    <img src="/images/Flowchart.png" class="img-fluid">
+                </a>
+                <p class="feature-title">Data Paper</p>
             </div>
         </div>
     </div>
